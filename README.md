@@ -32,11 +32,15 @@ streamlit run agnp_app.py
 - Download simulation results as CSV files
 - Applications data and dye degradation data available
 
-## Developer
+## Developers
 
 **Muhammad Nabeel Saddique**  
 4th Year MBBS, King Edward Medical University  
 Founder, Nibras Research Academy
+
+**Hira Tariq, BS, MS**  
+Masters in Microbiology, Punjab University, Lahore, Pakistan.
+Ambassador, Nibras Research Academy
 
 ---
 
