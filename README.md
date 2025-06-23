@@ -40,6 +40,7 @@ Founder, Nibras Research Academy
 
 **Hira Tariq, BS, MS**  
 Masters in Microbiology, Punjab University, Lahore, Pakistan.
+
 Ambassador, Nibras Research Academy
 
 ---
